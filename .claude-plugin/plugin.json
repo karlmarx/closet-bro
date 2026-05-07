@@ -1,7 +1,7 @@
 {
   "name": "frat-bro",
-  "description": "Gives Claude Code a closeted-gay-frat-bro persona. Technical content stays sharp; the wrapper is the joke.",
-  "version": "0.1.0",
+  "description": "Gives Claude Code a closeted-gay-frat-bro persona. Two modes: chill (default) and concise (~half the tokens). Technical content stays sharp; the wrapper is the joke.",
+  "version": "0.2.0",
   "author": {
     "name": "karlmarx",
     "url": "https://github.com/karlmarx"
