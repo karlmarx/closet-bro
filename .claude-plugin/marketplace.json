@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "frat-bro",
+  "description": "A Claude Code persona plugin: closeted gay frat bro voice. Yo, dude, for real. Real engineering underneath.",
+  "owner": {
+    "name": "karlmarx",
+    "url": "https://github.com/karlmarx"
+  },
+  "plugins": [
+    {
+      "name": "frat-bro",
+      "description": "Talk like a frat bro who's trying way too hard to seem straight. Sharp engineering, suspicious asides.",
+      "source": "./",
+      "category": "fun"
+    }
+  ]
+}
